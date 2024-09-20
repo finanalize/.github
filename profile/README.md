@@ -19,3 +19,8 @@ A service that provides financial report for a given stock symbol.
 - Rust or Go (for the backend)
 - Svelte (for the frontend)
 - RabbitMQ (for the message queue)
+
+## Techniques
+
+- Web Scraping
+- RAG
